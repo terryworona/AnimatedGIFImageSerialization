@@ -16,5 +16,5 @@ github "terryworona/AnimatedGIFImageSerialization" ~> 1.0
 Build:
 
 ```
-carthage update AnimatedGIFImageSerialization --platform iOS --no-use-binaries
+$ carthage update AnimatedGIFImageSerialization --platform iOS --no-use-binaries
 ```
