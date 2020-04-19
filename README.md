@@ -5,6 +5,10 @@ Orginal library written by [Mattt Thompson](https://github.com/mattt) via [Anima
 
 This library is a direct clone of Matt's work, but extended to include support for `Carthage`:
 
+## Carthage
+
+Simply add the following to your `Cartfile`:
+
 ```
 github "terryworona/AnimatedGIFImageSerialization" ~> 1.0
 ```
